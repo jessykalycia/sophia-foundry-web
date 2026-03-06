@@ -1,0 +1,91 @@
+{
+  "metadata": {
+    "title": "Sophia Foundry",
+    "description": "AAA'nın gerektirdiği araçları üreten ve bunları herkese sunan bir oyun stüdyosu."
+  },
+  "nav": {
+    "home": "Ana Sayfa",
+    "about": "Hakkımızda",
+    "products": "Ürünler",
+    "contact": "İletişim"
+  },
+  "hero": {
+    "eyebrow": "Bir Oyun Stüdyosu",
+    "tagline": "İmkânsızı dövün",
+    "subline": "AAA'nın gerektirdiği araçları üreten ve bunları herkese sunan bir oyun stüdyosu.",
+    "cta": "Sophia Forge'u Keşfedin"
+  },
+  "mission": {
+    "title": "Misyonumuz",
+    "text": "AAA kalitesi, AAA kaynakları gerektirmemelidir. Biz oyun yapıyoruz. Onları yapmak için araçlar oluşturuyoruz. Sonra bu araçları sizinle paylaşıyoruz. Her stüdyo, her ekip, her bağımsız geliştirici, dünyanın en büyük yapımlarını yönlendiren aynı güce erişmeyi hak ediyor."
+  },
+  "whatWeBuild": {
+    "eyebrow": "Çalışmalarımız",
+    "title": "Ne İnşa Ediyoruz",
+    "games": {
+      "label": "Oyunlar",
+      "title": "Oyunlar",
+      "description": "Tam bir inançla yapılan orijinal oyunlar. Yakın zamanda."
+    },
+    "tools": {
+      "label": "Araçlar",
+      "title": "Araçlar",
+      "forgeDescription": "Unreal Engine 5 için stüdyo operasyonları platformu. Tam tutarlılık, gerçek zamanlı iş birliği, yapay zekâ destekli."
+    }
+  },
+  "forgeHighlight": {
+    "label": "Öne Çıkan Ürün",
+    "title": "Sophia Forge",
+    "pitch": "Unreal Engine 5 için tasarlanmış stüdyo operasyonları platformu. Sophia Forge, üretim hattınıza tam tutarlılık getirir — varlık yönetimi, görev takibi, gerçek zamanlı iş birliği ve yapay zekâ destekli iş akışları tek bir birleşik sistemde.",
+    "cta": "Erken erişim bekleme listesine katılın"
+  },
+  "founderNote": {
+    "title": "Kurucudan Bir Not",
+    "text": "Vizyonu olan herkesin AAA kalitesinde üretim yapabilmesi gerektiğine inanıyorum. Sophia Foundry, ihtiyacım olan araçlar var olmadığı için doğdu — bu yüzden onları kendim inşa ettim. Yayınladığımız her araç, her gün kullandığım bir şeydir. Standartımız budur.",
+    "name": "Jessyka Gavião",
+    "role": "Kurucu ve Geliştirici"
+  },
+  "footer": {
+    "tagline": "İmkânsızı dövün",
+    "copyright": "Sophia Foundry. Tüm hakları saklıdır.",
+    "email": "jessyka@sophiafoundry.com"
+  },
+  "about": {
+    "studioTitle": "Stüdyo",
+    "studioText": "Sophia Foundry bir oyun stüdyosudur — sadece bir araç sağlayıcısı değil. Araçlarımız gerçek üretim ihtiyacından doğmaktadır; başka bir ekibe ulaşmadan önce kendi projelerimizde savaştan geçmiştir. Oyun yapıyoruz ve onları en yüksek kalitede yapmak için gereken altyapıyı oluşturuyoruz.",
+    "founderTitle": "Kurucu",
+    "founderName": "Jessyka Alycia Bonfim Gavião",
+    "founderRole": "Kurucu ve Geliştirici",
+    "founderBio": "10 yıldan fazla deneyime sahip kıdemli fullstack geliştirici ve sistem analisti. En yüksek kalitede oyunlar ve bunları yapmak için gereken altyapıyı inşa ediyor. Sophia Foundry şu anda tek kişilik bir stüdyodur. Bu bir kısıtlama değil — araçların neyi mümkün kıldığının kanıtıdır.",
+    "missionTitle": "Misyon",
+    "missionText": "En iyi oyunların doğru araçlarla güçlenmiş ekiplerden geldiğine inanıyoruz. Misyonumuz AAA kalitesinde geliştirmeyi demokratikleştirmek — en büyük stüdyoları yönlendiren araçları, iş akışlarını ve altyapıyı herkes için erişilebilir kılmaktır. Hatırlanmaya değer oyunlar, yapılmaya değer araçlar hak eder.",
+    "valuesTitle": "Değerler",
+    "coherence": "Tutarlılık",
+    "coherenceDesc": "Her şey birbirine bağlıdır. Araçlarımız, oyunlarımız, sürecimiz — tek bir sistem olarak inşa edilmiştir.",
+    "craft": "Zanaat",
+    "craftDesc": "Kullanan kişi tarafından yapılmıştır. Her özellik yayınlanmadan önce üretimde test edilir.",
+    "access": "Erişim",
+    "accessDesc": "Herkes için AAA. En iyi araçlar, en büyük bütçelerin arkasına kilitlenmemelidir."
+  },
+  "products": {
+    "title": "Ürünler",
+    "header": "Var olmasını istediğimiz araçları biz yapıyoruz.",
+    "forgeTitle": "Sophia Forge",
+    "forgeDesc": "Unreal Engine 5 için stüdyo operasyonları platformu. Tam tutarlılık, gerçek zamanlı iş birliği, yapay zekâ destekli.",
+    "forgeLink": "Sophia Forge'u Ziyaret Et",
+    "comingTitle": "Daha fazlası geliyor",
+    "comingDesc": "Daha fazlasını inşa ediyoruz. Bizi takip edin.",
+    "philosophy": "Her araç, size ulaşmadan önce kendi yapımlarımızda savaştan geçmiştir."
+  },
+  "contact": {
+    "title": "İletişim",
+    "intro": "Sizden haber almak isteriz.",
+    "name": "Ad",
+    "email": "E-posta",
+    "message": "Mesaj",
+    "send": "Mesaj Gönder",
+    "success": "Mesaj başarıyla gönderildi. En kısa sürede dönüş yapacağız.",
+    "error": "Bir şeyler ters gitti. Lütfen tekrar deneyin veya bize doğrudan e-posta gönderin.",
+    "orEmail": "Veya bize doğrudan e-posta gönderin"
+  }
+}

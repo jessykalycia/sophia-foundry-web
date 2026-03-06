@@ -1,0 +1,91 @@
+{
+  "metadata": {
+    "title": "Sophia Foundry",
+    "description": "AAA가 요구하는 도구를 만들고, 그것을 모두에게 제공하는 게임 스튜디오."
+  },
+  "nav": {
+    "home": "홈",
+    "about": "소개",
+    "products": "제품",
+    "contact": "문의"
+  },
+  "hero": {
+    "eyebrow": "게임 스튜디오",
+    "tagline": "불가능을 단조하라",
+    "subline": "AAA가 요구하는 도구를 만들고, 그것을 모두에게 제공하는 게임 스튜디오.",
+    "cta": "Sophia Forge 살펴보기"
+  },
+  "mission": {
+    "title": "우리의 사명",
+    "text": "AAA 품질에 AAA 자원이 필요해서는 안 됩니다. 우리는 게임을 만듭니다. 게임을 만들기 위한 도구를 만듭니다. 그리고 그 도구를 여러분과 공유합니다. 모든 스튜디오, 모든 팀, 모든 1인 개발자가 세계 최대 프로덕션을 이끄는 동일한 힘에 접근할 자격이 있습니다."
+  },
+  "whatWeBuild": {
+    "eyebrow": "우리의 작업",
+    "title": "우리가 만드는 것",
+    "games": {
+      "label": "게임",
+      "title": "게임",
+      "description": "확고한 신념으로 만든 오리지널 타이틀. 곧 공개됩니다."
+    },
+    "tools": {
+      "label": "도구",
+      "title": "도구",
+      "forgeDescription": "Unreal Engine 5를 위한 스튜디오 운영 플랫폼. 완전한 일관성, 실시간 협업, AI 기반."
+    }
+  },
+  "forgeHighlight": {
+    "label": "주요 제품",
+    "title": "Sophia Forge",
+    "pitch": "Unreal Engine 5를 위해 구축된 스튜디오 운영 플랫폼. Sophia Forge는 에셋 관리, 작업 추적, 실시간 협업, AI 기반 워크플로를 하나의 통합 시스템으로 제공하여 프로덕션 파이프라인에 완전한 일관성을 부여합니다.",
+    "cta": "얼리 액세스 대기 목록 참여하기"
+  },
+  "founderNote": {
+    "title": "창립자의 이야기",
+    "text": "비전을 가진 누구나 AAA 품질로 만들 수 있어야 한다고 믿습니다. Sophia Foundry는 제가 필요했던 도구가 존재하지 않았기에 탄생했습니다 — 그래서 직접 만들었습니다. 우리가 출시하는 모든 도구는 제가 매일 사용하는 것입니다. 그것이 우리의 기준입니다.",
+    "name": "Jessyka Gavião",
+    "role": "창립자 겸 개발자"
+  },
+  "footer": {
+    "tagline": "불가능을 단조하라",
+    "copyright": "Sophia Foundry. All rights reserved.",
+    "email": "jessyka@sophiafoundry.com"
+  },
+  "about": {
+    "studioTitle": "스튜디오",
+    "studioText": "Sophia Foundry는 게임 스튜디오입니다 — 단순한 도구 공급업체가 아닙니다. 우리의 도구는 실제 프로덕션의 필요에서 탄생하며, 다른 팀에 전달되기 전에 자체 프로젝트에서 실전 검증을 거칩니다. 우리는 게임을 만들고, 최고 품질로 게임을 만들기 위한 인프라를 구축합니다.",
+    "founderTitle": "창립자",
+    "founderName": "Jessyka Alycia Bonfim Gavião",
+    "founderRole": "창립자 겸 개발자",
+    "founderBio": "10년 이상의 경험을 가진 시니어 풀스택 개발자이자 시스템 분석가. 최고 품질로 게임과 그 인프라를 구축하고 있습니다. Sophia Foundry는 현재 1인 스튜디오입니다. 이것은 한계가 아닙니다 — 도구가 가능하게 하는 것의 증거입니다.",
+    "missionTitle": "사명",
+    "missionText": "최고의 게임은 올바른 도구로 역량을 갖춘 팀에서 나온다고 믿습니다. 우리의 사명은 AAA 품질 개발을 민주화하는 것 — 가장 큰 스튜디오를 이끄는 도구, 워크플로, 인프라를 모두가 이용할 수 있게 하는 것입니다. 기억에 남을 게임에는 만들 가치가 있는 도구가 어울립니다.",
+    "valuesTitle": "가치관",
+    "coherence": "일관성",
+    "coherenceDesc": "모든 것이 연결됩니다. 우리의 도구, 게임, 프로세스 — 하나의 시스템으로 구축됩니다.",
+    "craft": "장인 정신",
+    "craftDesc": "사용하는 사람이 직접 만듭니다. 모든 기능은 출시 전에 프로덕션 환경에서 테스트됩니다.",
+    "access": "접근성",
+    "accessDesc": "모두를 위한 AAA. 최고의 도구가 가장 큰 예산 뒤에 잠겨 있어서는 안 됩니다."
+  },
+  "products": {
+    "title": "제품",
+    "header": "우리는 존재했으면 하는 도구를 만듭니다.",
+    "forgeTitle": "Sophia Forge",
+    "forgeDesc": "Unreal Engine 5를 위한 스튜디오 운영 플랫폼. 완전한 일관성, 실시간 협업, AI 기반.",
+    "forgeLink": "Sophia Forge 방문하기",
+    "comingTitle": "더 많은 것이 곧",
+    "comingDesc": "더 많이 만들고 있습니다. 기대해 주세요.",
+    "philosophy": "모든 도구는 여러분에게 전달되기 전에 자체 프로덕션에서 실전 검증을 거칩니다."
+  },
+  "contact": {
+    "title": "문의하기",
+    "intro": "여러분의 이야기를 듣고 싶습니다.",
+    "name": "이름",
+    "email": "이메일",
+    "message": "메시지",
+    "send": "메시지 보내기",
+    "success": "메시지가 성공적으로 전송되었습니다. 곧 답변 드리겠습니다.",
+    "error": "문제가 발생했습니다. 다시 시도하시거나 직접 이메일을 보내주세요.",
+    "orEmail": "또는 직접 이메일을 보내주세요"
+  }
+}

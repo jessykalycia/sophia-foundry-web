@@ -1,0 +1,58 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  /* Backgrounds */
+  --bg-base: #0a0a0f;
+  --bg-surface: #0f0f17;
+  --bg-elevated: #14141e;
+
+  /* Purple scale */
+  --purple-bright: #c060f0;
+  --purple-primary: #a84de0;
+  --purple-dim: #7a2fb0;
+  --purple-ghost: #a84de018;
+  --purple-border: #a84de030;
+
+  /* Text */
+  --text-primary: #f5f5f7;
+  --text-secondary: #a0a0b0;
+  --text-muted: #606070;
+  --text-accent: #c060f0;
+
+  /* Borders */
+  --border-subtle: #ffffff0a;
+  --border-default: #ffffff14;
+  --border-strong: #a84de040;
+
+  /* Functional */
+  --destructive: #e23b28;
+}
+
+@layer base {
+  body {
+    @apply antialiased;
+    background-color: var(--bg-base);
+    color: var(--text-primary);
+  }
+
+  ::selection {
+    background-color: rgba(168, 77, 224, 0.3);
+  }
+}
+
+@layer components {
+  .container {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 clamp(1.5rem, 5vw, 4rem);
+    width: 100%;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}

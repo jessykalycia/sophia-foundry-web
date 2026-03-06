@@ -1,0 +1,91 @@
+{
+  "metadata": {
+    "title": "Sophia Foundry",
+    "description": "Uno studio di videogiochi che crea gli strumenti richiesti dal AAA — e li mette a disposizione di tutti."
+  },
+  "nav": {
+    "home": "Home",
+    "about": "Chi siamo",
+    "products": "Prodotti",
+    "contact": "Contatti"
+  },
+  "hero": {
+    "eyebrow": "Uno Studio di Videogiochi",
+    "tagline": "Forgia l'impossibile",
+    "subline": "Uno studio di videogiochi che crea gli strumenti richiesti dal AAA — e li mette a disposizione di tutti.",
+    "cta": "Scopri Sophia Forge"
+  },
+  "mission": {
+    "title": "La nostra missione",
+    "text": "La qualità AAA non dovrebbe richiedere risorse AAA. Creiamo giochi. Creiamo gli strumenti per realizzarli. Poi condividiamo quegli strumenti con voi. Ogni studio, ogni team, ogni sviluppatore indipendente merita accesso alla stessa potenza che guida le più grandi produzioni del mondo."
+  },
+  "whatWeBuild": {
+    "eyebrow": "Il Nostro Lavoro",
+    "title": "Cosa creiamo",
+    "games": {
+      "label": "Giochi",
+      "title": "Giochi",
+      "description": "Titoli originali realizzati con piena convinzione. In arrivo."
+    },
+    "tools": {
+      "label": "Strumenti",
+      "title": "Strumenti",
+      "forgeDescription": "Piattaforma operativa per studi basata su Unreal Engine 5. Coerenza totale, collaborazione in tempo reale, potenziata dall'IA."
+    }
+  },
+  "forgeHighlight": {
+    "label": "Prodotto in Evidenza",
+    "title": "Sophia Forge",
+    "pitch": "La piattaforma operativa per studi costruita per Unreal Engine 5. Sophia Forge porta coerenza totale alla tua pipeline di produzione — gestione degli asset, tracciamento delle attività, collaborazione in tempo reale e workflow potenziati dall'IA in un sistema unificato.",
+    "cta": "Iscriviti alla lista d'attesa per l'accesso anticipato"
+  },
+  "founderNote": {
+    "title": "Una nota dalla fondatrice",
+    "text": "Credo che chiunque abbia una visione debba poter creare con qualità AAA. Sophia Foundry esiste perché gli strumenti di cui avevo bisogno non esistevano — così li ho creati io. Ogni strumento che rilasciamo è qualcosa che uso ogni giorno. Questo è il nostro standard.",
+    "name": "Jessyka Gavião",
+    "role": "Fondatrice e Sviluppatrice"
+  },
+  "footer": {
+    "tagline": "Forgia l'impossibile",
+    "copyright": "Sophia Foundry. Tutti i diritti riservati.",
+    "email": "jessyka@sophiafoundry.com"
+  },
+  "about": {
+    "studioTitle": "Lo Studio",
+    "studioText": "Sophia Foundry è uno studio di videogiochi — non un semplice fornitore di strumenti. I nostri strumenti nascono da reali esigenze produttive, testati sul campo nei nostri progetti prima di raggiungere qualsiasi altro team. Creiamo giochi e l'infrastruttura per realizzarli con la massima qualità.",
+    "founderTitle": "La Fondatrice",
+    "founderName": "Jessyka Alycia Bonfim Gavião",
+    "founderRole": "Fondatrice e Sviluppatrice",
+    "founderBio": "Sviluppatrice fullstack senior e analista di sistemi con oltre 10 anni di esperienza. Crea giochi e l'infrastruttura per realizzarli con la massima qualità. Sophia Foundry è attualmente uno studio di una sola persona. Non è un limite — è la prova di ciò che gli strumenti rendono possibile.",
+    "missionTitle": "Missione",
+    "missionText": "Crediamo che i migliori giochi nascano da team dotati degli strumenti giusti. La nostra missione è democratizzare lo sviluppo con qualità AAA — rendere gli strumenti, i workflow e l'infrastruttura che alimentano i più grandi studi accessibili a tutti. I giochi che meritano di essere ricordati meritano strumenti che valgono la pena costruire.",
+    "valuesTitle": "Valori",
+    "coherence": "Coerenza",
+    "coherenceDesc": "Tutto è connesso. I nostri strumenti, i nostri giochi, il nostro processo — costruiti come un unico sistema.",
+    "craft": "Artigianato",
+    "craftDesc": "Costruito da chi lo usa. Ogni funzionalità viene testata in produzione prima del rilascio.",
+    "access": "Accesso",
+    "accessDesc": "AAA per tutti. I migliori strumenti non dovrebbero essere riservati ai budget più grandi."
+  },
+  "products": {
+    "title": "Prodotti",
+    "header": "Creiamo gli strumenti che avremmo voluto esistessero.",
+    "forgeTitle": "Sophia Forge",
+    "forgeDesc": "Piattaforma operativa per studi basata su Unreal Engine 5. Coerenza totale, collaborazione in tempo reale, potenziata dall'IA.",
+    "forgeLink": "Visita Sophia Forge",
+    "comingTitle": "Altro in arrivo",
+    "comingDesc": "Stiamo costruendo di più. Restate sintonizzati.",
+    "philosophy": "Ogni strumento viene testato sul campo nelle nostre produzioni prima di arrivare a voi."
+  },
+  "contact": {
+    "title": "Contatti",
+    "intro": "Ci farebbe piacere avere tue notizie.",
+    "name": "Nome",
+    "email": "Email",
+    "message": "Messaggio",
+    "send": "Invia messaggio",
+    "success": "Messaggio inviato con successo. Ti risponderemo presto.",
+    "error": "Qualcosa è andato storto. Riprova o scrivici direttamente via email.",
+    "orEmail": "Oppure scrivici direttamente a"
+  }
+}

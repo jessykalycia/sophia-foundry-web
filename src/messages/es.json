@@ -1,0 +1,91 @@
+{
+  "metadata": {
+    "title": "Sophia Foundry",
+    "description": "Un estudio de videojuegos que crea las herramientas que el AAA exige — y las pone al alcance de todos."
+  },
+  "nav": {
+    "home": "Inicio",
+    "about": "Acerca de",
+    "products": "Productos",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "eyebrow": "Un Estudio de Videojuegos",
+    "tagline": "Forja lo imposible",
+    "subline": "Un estudio de videojuegos que crea las herramientas que el AAA exige — y las pone al alcance de todos.",
+    "cta": "Explorar Sophia Forge"
+  },
+  "mission": {
+    "title": "Nuestra Misión",
+    "text": "La calidad AAA no debería requerir recursos AAA. Creamos juegos. Creamos las herramientas para hacerlos. Y luego compartimos esas herramientas contigo. Cada estudio, cada equipo, cada desarrollador independiente merece acceso al mismo poder que impulsa las mayores producciones del mundo."
+  },
+  "whatWeBuild": {
+    "eyebrow": "Nuestro Trabajo",
+    "title": "Lo que creamos",
+    "games": {
+      "label": "Juegos",
+      "title": "Juegos",
+      "description": "Títulos originales hechos con total convicción. Próximamente."
+    },
+    "tools": {
+      "label": "Herramientas",
+      "title": "Herramientas",
+      "forgeDescription": "Plataforma de operaciones de estudio para Unreal Engine 5. Coherencia total, colaboración en tiempo real, impulsada por IA."
+    }
+  },
+  "forgeHighlight": {
+    "label": "Producto Destacado",
+    "title": "Sophia Forge",
+    "pitch": "La plataforma de operaciones de estudio creada para Unreal Engine 5. Sophia Forge aporta coherencia total a tu pipeline de producción — gestión de assets, seguimiento de tareas, colaboración en tiempo real y flujos de trabajo impulsados por IA en un sistema unificado.",
+    "cta": "Únete a la lista de espera de acceso anticipado"
+  },
+  "founderNote": {
+    "title": "Nota de la Fundadora",
+    "text": "Creo que cualquier persona con visión debería poder crear con calidad AAA. Sophia Foundry existe porque las herramientas que necesitaba no existían — así que las construí yo misma. Cada herramienta que lanzamos es algo que uso cada día. Ese es el estándar.",
+    "name": "Jessyka Gavião",
+    "role": "Fundadora y Desarrolladora"
+  },
+  "footer": {
+    "tagline": "Forja lo imposible",
+    "copyright": "Sophia Foundry. Todos los derechos reservados.",
+    "email": "jessyka@sophiafoundry.com"
+  },
+  "about": {
+    "studioTitle": "El Estudio",
+    "studioText": "Sophia Foundry es un estudio de videojuegos — no solo un proveedor de herramientas. Nuestras herramientas nacen de necesidades reales de producción, probadas en combate en nuestros propios proyectos antes de llegar a cualquier otro equipo. Creamos juegos y la infraestructura para hacerlos con la más alta calidad.",
+    "founderTitle": "La Fundadora",
+    "founderName": "Jessyka Alycia Bonfim Gavião",
+    "founderRole": "Fundadora y Desarrolladora",
+    "founderBio": "Desarrolladora fullstack senior y analista de sistemas con más de 10 años de experiencia. Crea juegos y la infraestructura para hacerlos con la más alta calidad. Sophia Foundry es actualmente un estudio de una sola persona. Eso no es una limitación — es la prueba de lo que las herramientas hacen posible.",
+    "missionTitle": "Misión",
+    "missionText": "Creemos que los mejores juegos provienen de equipos empoderados con las herramientas adecuadas. Nuestra misión es democratizar el desarrollo con calidad AAA — hacer que las herramientas, flujos de trabajo e infraestructura que impulsan los mayores estudios sean accesibles para todos. Los juegos que merecen ser recordados merecen herramientas que valgan la pena construir.",
+    "valuesTitle": "Valores",
+    "coherence": "Coherencia",
+    "coherenceDesc": "Todo está conectado. Nuestras herramientas, nuestros juegos, nuestro proceso — construidos como un solo sistema.",
+    "craft": "Maestría",
+    "craftDesc": "Construido por quien lo usa. Cada funcionalidad se prueba en producción antes de su lanzamiento.",
+    "access": "Acceso",
+    "accessDesc": "AAA para todos. Las mejores herramientas no deberían estar bloqueadas tras los mayores presupuestos."
+  },
+  "products": {
+    "title": "Productos",
+    "header": "Creamos las herramientas que desearíamos que existieran.",
+    "forgeTitle": "Sophia Forge",
+    "forgeDesc": "Plataforma de operaciones de estudio para Unreal Engine 5. Coherencia total, colaboración en tiempo real, impulsada por IA.",
+    "forgeLink": "Visitar Sophia Forge",
+    "comingTitle": "Más en camino",
+    "comingDesc": "Estamos construyendo más. Estate atento.",
+    "philosophy": "Cada herramienta se prueba en combate en nuestras propias producciones antes de llegar a ti."
+  },
+  "contact": {
+    "title": "Contacto",
+    "intro": "Nos encantaría saber de ti.",
+    "name": "Nombre",
+    "email": "Correo electrónico",
+    "message": "Mensaje",
+    "send": "Enviar mensaje",
+    "success": "Mensaje enviado con éxito. Te responderemos pronto.",
+    "error": "Algo salió mal. Inténtalo de nuevo o escríbenos directamente por correo.",
+    "orEmail": "O escríbenos directamente a"
+  }
+}

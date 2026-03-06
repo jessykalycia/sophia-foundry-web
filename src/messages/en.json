@@ -1,0 +1,91 @@
+{
+  "metadata": {
+    "title": "Sophia Foundry",
+    "description": "A game studio building the tools that AAA demands — and giving them to everyone."
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "products": "Products",
+    "contact": "Contact"
+  },
+  "hero": {
+    "eyebrow": "A Game Studio",
+    "tagline": "Forge the impossible",
+    "subline": "A game studio building the tools that AAA demands — and giving them to everyone.",
+    "cta": "Explore Sophia Forge"
+  },
+  "mission": {
+    "title": "Our Mission",
+    "text": "AAA quality shouldn't require AAA resources. We build games. We build the tools to make them. Then we share those tools with you. Every studio, every team, every solo developer deserves access to the same power that drives the biggest productions in the world."
+  },
+  "whatWeBuild": {
+    "eyebrow": "Our Work",
+    "title": "What We Build",
+    "games": {
+      "label": "Games",
+      "title": "Games",
+      "description": "Original titles built with full conviction. Coming soon."
+    },
+    "tools": {
+      "label": "Tools",
+      "title": "Tools",
+      "forgeDescription": "Studio operations platform for Unreal Engine 5. Full coherence, real-time collaboration, AI-powered."
+    }
+  },
+  "forgeHighlight": {
+    "label": "Featured Product",
+    "title": "Sophia Forge",
+    "pitch": "The studio operations platform built for Unreal Engine 5. Sophia Forge brings full coherence to your production pipeline — asset management, task tracking, real-time collaboration, and AI-powered workflows in one unified system.",
+    "cta": "Join the early access waitlist"
+  },
+  "founderNote": {
+    "title": "A Note from the Founder",
+    "text": "I believe anyone with vision should be able to build at AAA quality. Sophia Foundry exists because the tools I needed didn't exist — so I built them. Every tool we release is something I use every day. That's the standard.",
+    "name": "Jessyka Gavião",
+    "role": "Founder & Developer"
+  },
+  "footer": {
+    "tagline": "Forge the impossible",
+    "copyright": "Sophia Foundry. All rights reserved.",
+    "email": "jessyka@sophiafoundry.com"
+  },
+  "about": {
+    "studioTitle": "The Studio",
+    "studioText": "Sophia Foundry is a game studio — not just a tool vendor. Our tools are born from real production need, battle-tested in our own projects before they ever reach another team. We build games and the infrastructure to make them at the highest quality.",
+    "founderTitle": "The Founder",
+    "founderName": "Jessyka Alycia Bonfim Gavião",
+    "founderRole": "Founder & Developer",
+    "founderBio": "Senior fullstack developer and systems analyst with over 10 years of experience. Building games and the infrastructure to make them at the highest quality. Sophia Foundry is currently a one-person studio. That's not a limitation — it's proof of what the tools make possible.",
+    "missionTitle": "Mission",
+    "missionText": "We believe the best games come from teams empowered with the right tools. Our mission is to democratize AAA-quality development — to make the tools, workflows, and infrastructure that power the biggest studios accessible to everyone. Games worth remembering deserve tools worth building.",
+    "valuesTitle": "Values",
+    "coherence": "Coherence",
+    "coherenceDesc": "Everything connects. Our tools, our games, our process — built as one system.",
+    "craft": "Craft",
+    "craftDesc": "Built by someone who uses it. Every feature is tested in production before it ships.",
+    "access": "Access",
+    "accessDesc": "AAA for everyone. The best tools should not be locked behind the biggest budgets."
+  },
+  "products": {
+    "title": "Products",
+    "header": "We build the tools we wish existed.",
+    "forgeTitle": "Sophia Forge",
+    "forgeDesc": "Studio operations platform for Unreal Engine 5. Full coherence, real-time collaboration, AI-powered.",
+    "forgeLink": "Visit Sophia Forge",
+    "comingTitle": "More coming",
+    "comingDesc": "We're building more. Stay close.",
+    "philosophy": "Every tool is battle-tested in our own productions before it reaches you."
+  },
+  "contact": {
+    "title": "Contact",
+    "intro": "We'd love to hear from you.",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "send": "Send Message",
+    "success": "Message sent successfully. We'll get back to you soon.",
+    "error": "Something went wrong. Please try again or email us directly.",
+    "orEmail": "Or email us directly at"
+  }
+}

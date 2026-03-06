@@ -1,0 +1,91 @@
+{
+  "metadata": {
+    "title": "Sophia Foundry",
+    "description": "Ein Spielestudio, das die Werkzeuge baut, die AAA verlangt — und sie allen zugänglich macht."
+  },
+  "nav": {
+    "home": "Startseite",
+    "about": "Über uns",
+    "products": "Produkte",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "eyebrow": "Ein Spielestudio",
+    "tagline": "Schmiede das Unmögliche",
+    "subline": "Ein Spielestudio, das die Werkzeuge baut, die AAA verlangt — und sie allen zugänglich macht.",
+    "cta": "Sophia Forge entdecken"
+  },
+  "mission": {
+    "title": "Unsere Mission",
+    "text": "AAA-Qualität sollte keine AAA-Ressourcen erfordern. Wir entwickeln Spiele. Wir bauen die Werkzeuge, um sie zu erschaffen. Dann teilen wir diese Werkzeuge mit euch. Jedes Studio, jedes Team, jeder Einzelentwickler verdient Zugang zur selben Kraft, die die größten Produktionen der Welt antreibt."
+  },
+  "whatWeBuild": {
+    "eyebrow": "Unsere Arbeit",
+    "title": "Was wir bauen",
+    "games": {
+      "label": "Spiele",
+      "title": "Spiele",
+      "description": "Originaltitel mit voller Überzeugung. Demnächst verfügbar."
+    },
+    "tools": {
+      "label": "Werkzeuge",
+      "title": "Werkzeuge",
+      "forgeDescription": "Studio-Betriebsplattform für Unreal Engine 5. Vollständige Kohärenz, Echtzeit-Zusammenarbeit, KI-gestützt."
+    }
+  },
+  "forgeHighlight": {
+    "label": "Hervorgehobenes Produkt",
+    "title": "Sophia Forge",
+    "pitch": "Die Studio-Betriebsplattform für Unreal Engine 5. Sophia Forge bringt vollständige Kohärenz in Ihre Produktionspipeline — Asset-Management, Aufgabenverfolgung, Echtzeit-Zusammenarbeit und KI-gestützte Workflows in einem einheitlichen System.",
+    "cta": "Auf die Early-Access-Warteliste setzen"
+  },
+  "founderNote": {
+    "title": "Ein Wort der Gründerin",
+    "text": "Ich glaube, dass jeder mit einer Vision in AAA-Qualität arbeiten können sollte. Sophia Foundry existiert, weil die Werkzeuge, die ich brauchte, nicht existierten — also habe ich sie selbst gebaut. Jedes Werkzeug, das wir veröffentlichen, nutze ich täglich. Das ist unser Standard.",
+    "name": "Jessyka Gavião",
+    "role": "Gründerin & Entwicklerin"
+  },
+  "footer": {
+    "tagline": "Schmiede das Unmögliche",
+    "copyright": "Sophia Foundry. Alle Rechte vorbehalten.",
+    "email": "jessyka@sophiafoundry.com"
+  },
+  "about": {
+    "studioTitle": "Das Studio",
+    "studioText": "Sophia Foundry ist ein Spielestudio — nicht nur ein Werkzeuganbieter. Unsere Werkzeuge entstehen aus echtem Produktionsbedarf und werden in unseren eigenen Projekten praxiserprobt, bevor sie ein anderes Team erreichen. Wir entwickeln Spiele und die Infrastruktur, um sie in höchster Qualität zu erschaffen.",
+    "founderTitle": "Die Gründerin",
+    "founderName": "Jessyka Alycia Bonfim Gavião",
+    "founderRole": "Gründerin & Entwicklerin",
+    "founderBio": "Senior-Fullstack-Entwicklerin und Systemanalystin mit über 10 Jahren Erfahrung. Sie entwickelt Spiele und die Infrastruktur, um sie in höchster Qualität zu erschaffen. Sophia Foundry ist derzeit ein Ein-Personen-Studio. Das ist keine Einschränkung — es ist der Beweis für das, was die Werkzeuge möglich machen.",
+    "missionTitle": "Mission",
+    "missionText": "Wir glauben, dass die besten Spiele von Teams kommen, die mit den richtigen Werkzeugen ausgestattet sind. Unsere Mission ist es, AAA-Qualitätsentwicklung zu demokratisieren — die Werkzeuge, Workflows und Infrastruktur, die die größten Studios antreiben, für alle zugänglich zu machen. Spiele, die es wert sind, erinnert zu werden, verdienen Werkzeuge, die es wert sind, gebaut zu werden.",
+    "valuesTitle": "Werte",
+    "coherence": "Kohärenz",
+    "coherenceDesc": "Alles ist verbunden. Unsere Werkzeuge, unsere Spiele, unser Prozess — als ein System gebaut.",
+    "craft": "Handwerk",
+    "craftDesc": "Gebaut von jemandem, der es selbst nutzt. Jede Funktion wird in der Produktion getestet, bevor sie veröffentlicht wird.",
+    "access": "Zugang",
+    "accessDesc": "AAA für alle. Die besten Werkzeuge sollten nicht hinter den größten Budgets verschlossen sein."
+  },
+  "products": {
+    "title": "Produkte",
+    "header": "Wir bauen die Werkzeuge, die wir uns gewünscht hätten.",
+    "forgeTitle": "Sophia Forge",
+    "forgeDesc": "Studio-Betriebsplattform für Unreal Engine 5. Vollständige Kohärenz, Echtzeit-Zusammenarbeit, KI-gestützt.",
+    "forgeLink": "Sophia Forge besuchen",
+    "comingTitle": "Mehr kommt bald",
+    "comingDesc": "Wir bauen weiter. Bleibt dran.",
+    "philosophy": "Jedes Werkzeug wird in unseren eigenen Produktionen praxiserprobt, bevor es euch erreicht."
+  },
+  "contact": {
+    "title": "Kontakt",
+    "intro": "Wir freuen uns, von Ihnen zu hören.",
+    "name": "Name",
+    "email": "E-Mail",
+    "message": "Nachricht",
+    "send": "Nachricht senden",
+    "success": "Nachricht erfolgreich gesendet. Wir melden uns bald bei Ihnen.",
+    "error": "Etwas ist schiefgelaufen. Bitte versuchen Sie es erneut oder schreiben Sie uns direkt per E-Mail.",
+    "orEmail": "Oder schreiben Sie uns direkt an"
+  }
+}
