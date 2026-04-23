@@ -1,7 +1,7 @@
 {
   "metadata": {
     "title": "Sophia Foundry",
-    "description": "AAA'nın gerektirdiği araçları üreten ve bunları herkese sunan bir oyun stüdyosu."
+    "description": "Var olmasını dilediğimiz araçları üreten ve bunları herkesle paylaşan bir oyun stüdyosu."
   },
   "nav": {
     "home": "Ana Sayfa",
@@ -12,12 +12,12 @@
   "hero": {
     "eyebrow": "Bir Oyun Stüdyosu",
     "tagline": "İmkânsızı dövün",
-    "subline": "AAA'nın gerektirdiği araçları üreten ve bunları herkese sunan bir oyun stüdyosu.",
+    "subline": "Var olmasını dilediğimiz araçları üreten ve bunları herkesle paylaşan bir oyun stüdyosu.",
     "cta": "Sophia Forge'u Keşfedin"
   },
   "mission": {
     "title": "Misyonumuz",
-    "text": "AAA kalitesi, AAA kaynakları gerektirmemelidir. Biz oyun yapıyoruz. Onları yapmak için araçlar oluşturuyoruz. Sonra bu araçları sizinle paylaşıyoruz. Her stüdyo, her ekip, her bağımsız geliştirici, dünyanın en büyük yapımlarını yönlendiren aynı güce erişmeyi hak ediyor."
+    "text": "Biz oyun yapıyoruz. Onları yapmak için araçlar oluşturuyoruz. Sonra bu araçları sizinle paylaşıyoruz. Her stüdyo, her ekip, her bağımsız geliştirici, hayal ettiklerini inşa etmek için gerekli araçları hak ediyor."
   },
   "whatWeBuild": {
     "eyebrow": "Çalışmalarımız",
@@ -30,18 +30,18 @@
     "tools": {
       "label": "Araçlar",
       "title": "Araçlar",
-      "forgeDescription": "Unreal Engine 5 için stüdyo operasyonları platformu. Tam tutarlılık, gerçek zamanlı iş birliği, yapay zekâ destekli."
+      "forgeDescription": "UE5 kullanıcıları dahil herkes için oyun geliştirme iş istasyonu. Tam tutarlılık, gerçek zamanlı iş birliği, önce insanlar, sonra yapay zekâ."
     }
   },
   "forgeHighlight": {
     "label": "Öne Çıkan Ürün",
     "title": "Sophia Forge",
-    "pitch": "Unreal Engine 5 için tasarlanmış stüdyo operasyonları platformu. Sophia Forge, üretim hattınıza tam tutarlılık getirir — varlık yönetimi, görev takibi, gerçek zamanlı iş birliği ve yapay zekâ destekli iş akışları tek bir birleşik sistemde.",
-    "cta": "Erken erişim bekleme listesine katılın"
+    "pitch": "UE5 kullanıcıları dahil herkes için tasarlanmış oyun geliştirme iş istasyonu. Varlıklarınız, görevleriniz, ekibiniz — tek bir yerde. Önce insanlar. Sonra yapay zekâ.",
+    "cta": "Şimdi inceleyin"
   },
   "founderNote": {
     "title": "Kurucudan Bir Not",
-    "text": "Vizyonu olan herkesin AAA kalitesinde üretim yapabilmesi gerektiğine inanıyorum. Sophia Foundry, ihtiyacım olan araçlar var olmadığı için doğdu — bu yüzden onları kendim inşa ettim. Yayınladığımız her araç, her gün kullandığım bir şeydir. Standartımız budur.",
+    "text": "Vizyonu olan herkesin onu hayata geçirecek araçlara sahip olması gerektiğine inanıyorum. Sophia Foundry, ihtiyacım olan araçlar var olmadığı için doğdu — bu yüzden onları kendim inşa ettim. Yayınladığımız her araç, her gün kullandığım bir şeydir. Standartımız budur.",
     "name": "Jessyka Gavião",
     "role": "Kurucu ve Geliştirici"
   },
@@ -58,20 +58,20 @@
     "founderRole": "Kurucu ve Geliştirici",
     "founderBio": "10 yıldan fazla deneyime sahip kıdemli fullstack geliştirici ve sistem analisti. En yüksek kalitede oyunlar ve bunları yapmak için gereken altyapıyı inşa ediyor. Sophia Foundry şu anda tek kişilik bir stüdyodur. Bu bir kısıtlama değil — araçların neyi mümkün kıldığının kanıtıdır.",
     "missionTitle": "Misyon",
-    "missionText": "En iyi oyunların doğru araçlarla güçlenmiş ekiplerden geldiğine inanıyoruz. Misyonumuz AAA kalitesinde geliştirmeyi demokratikleştirmek — en büyük stüdyoları yönlendiren araçları, iş akışlarını ve altyapıyı herkes için erişilebilir kılmaktır. Hatırlanmaya değer oyunlar, yapılmaya değer araçlar hak eder.",
+    "missionText": "En iyi oyunların doğru araçlarla güçlenmiş ekiplerden geldiğine inanıyoruz. Misyonumuz, harika geliştirme araçlarını herkes için erişilebilir kılmak — ekiplerin hayal ettiklerini hayata geçirmek için ihtiyaç duyduğu iş akışlarını ve altyapıyı. Hatırlanmaya değer oyunlar, yapılmaya değer araçlar hak eder.",
     "valuesTitle": "Değerler",
     "coherence": "Tutarlılık",
     "coherenceDesc": "Her şey birbirine bağlıdır. Araçlarımız, oyunlarımız, sürecimiz — tek bir sistem olarak inşa edilmiştir.",
     "craft": "Zanaat",
     "craftDesc": "Kullanan kişi tarafından yapılmıştır. Her özellik yayınlanmadan önce üretimde test edilir.",
     "access": "Erişim",
-    "accessDesc": "Herkes için AAA. En iyi araçlar, en büyük bütçelerin arkasına kilitlenmemelidir."
+    "accessDesc": "Herkes için araçlar. En iyi araçlar, en büyük bütçelerin arkasına kilitlenmemelidir."
   },
   "products": {
     "title": "Ürünler",
     "header": "Var olmasını istediğimiz araçları biz yapıyoruz.",
     "forgeTitle": "Sophia Forge",
-    "forgeDesc": "Unreal Engine 5 için stüdyo operasyonları platformu. Tam tutarlılık, gerçek zamanlı iş birliği, yapay zekâ destekli.",
+    "forgeDesc": "UE5 kullanıcıları dahil herkes için oyun geliştirme iş istasyonu. Tam tutarlılık, gerçek zamanlı iş birliği, önce insanlar, sonra yapay zekâ.",
     "forgeLink": "Sophia Forge'u Ziyaret Et",
     "comingTitle": "Daha fazlası geliyor",
     "comingDesc": "Daha fazlasını inşa ediyoruz. Bizi takip edin.",

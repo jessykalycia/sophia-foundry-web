@@ -2,7 +2,7 @@
 
 **Forge the impossible.**
 
-Sophia Foundry is a game studio building the tools that AAA demands — and giving them to everyone. Founded by Jessyka A. Gavião, the studio builds its own games and its own tools, starting with [Sophia Forge](https://sophiaforge.com).
+Sophia Foundry is a game studio building the tools we wished existed — and sharing them with everyone. Founded by Jessyka A. Gavião, the studio builds its own games and its own tools, starting with [Sophia Forge](https://sophiaforge.com).
 
 ## Pages
 
