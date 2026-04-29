@@ -76,3 +76,4 @@ Locale detection and prefix routing are handled automatically via `next-intl` mi
 ## License
 
 All rights reserved. Copyright Sophia Foundry.
+
