@@ -1,7 +1,7 @@
 {
   "metadata": {
     "title": "Sophia Foundry",
-    "description": "Un studio de jeux qui crée les outils dont nous aurions rêvé — et les partage avec tous."
+    "description": "Un studio de jeux qui crée les outils dont nous aurions rêvé, et les partage avec tous."
   },
   "nav": {
     "home": "Accueil",
@@ -12,7 +12,7 @@
   "hero": {
     "eyebrow": "Un Studio de Jeux",
     "tagline": "Forgez l'impossible",
-    "subline": "Un studio de jeux qui crée les outils dont nous aurions rêvé — et les partage avec tous.",
+    "subline": "Un studio de jeux qui crée les outils dont nous aurions rêvé, et les partage avec tous.",
     "cta": "Découvrir Sophia Forge"
   },
   "mission": {
@@ -36,14 +36,8 @@
   "forgeHighlight": {
     "label": "Produit Vedette",
     "title": "Sophia Forge",
-    "pitch": "La station de développement de jeux conçue pour tous, y compris les utilisateurs d'UE5. Vos assets, vos tâches, votre équipe — au même endroit. Les personnes d'abord. L'IA ensuite.",
+    "pitch": "La station de développement de jeux conçue pour tous, y compris les utilisateurs d'UE5. Vos assets, vos tâches, votre équipe, au même endroit. Les personnes d'abord. L'IA ensuite.",
     "cta": "Découvrir maintenant"
-  },
-  "founderNote": {
-    "title": "Un mot de la fondatrice",
-    "text": "Je crois que quiconque a une vision devrait avoir les outils pour la concrétiser. Sophia Foundry existe parce que les outils dont j'avais besoin n'existaient pas — alors je les ai créés. Chaque outil que nous publions est quelque chose que j'utilise chaque jour. C'est notre standard.",
-    "name": "Jessyka Gavião",
-    "role": "Fondatrice & Développeuse"
   },
   "footer": {
     "tagline": "Forgez l'impossible",
@@ -52,18 +46,14 @@
   },
   "about": {
     "studioTitle": "Le Studio",
-    "studioText": "Sophia Foundry est un studio de jeux — pas simplement un fournisseur d'outils. Nos outils naissent de besoins réels de production, éprouvés au combat dans nos propres projets avant d'atteindre une autre équipe. Nous créons des jeux et l'infrastructure pour les réaliser avec la plus haute qualité.",
-    "founderTitle": "La Fondatrice",
-    "founderName": "Jessyka Alycia Bonfim Gavião",
-    "founderRole": "Fondatrice & Développeuse",
-    "founderBio": "Développeuse fullstack senior et analyste systèmes avec plus de 10 ans d'expérience. Elle crée des jeux et l'infrastructure pour les réaliser avec la plus haute qualité. Sophia Foundry est actuellement un studio d'une seule personne. Ce n'est pas une limitation — c'est la preuve de ce que les outils rendent possible.",
+    "studioText": "Sophia Foundry est un petit studio de jeux. En solo pour l'instant, en croissance bientôt. Nous faisons des jeux. Quand les outils dont nous avons besoin n'existent pas, nous les construisons.",
     "missionTitle": "Mission",
-    "missionText": "Nous croyons que les meilleurs jeux viennent d'équipes dotées des bons outils. Notre mission est de rendre de grands outils de développement accessibles à tous — les workflows et l'infrastructure dont les équipes ont besoin pour créer ce qu'elles imaginent. Les jeux qui méritent d'être mémorables méritent des outils qui valent la peine d'être créés.",
+    "missionText": "Nous sommes là pour créer des jeux mémorables. Nous publions les outils que nous avons construits pour les faire.",
     "valuesTitle": "Valeurs",
     "coherence": "Cohérence",
-    "coherenceDesc": "Tout est connecté. Nos outils, nos jeux, notre processus — construits comme un seul système.",
+    "coherenceDesc": "Nos outils viennent des jeux que nous faisons. Les jeux façonnent les outils, et les outils façonnent les jeux.",
     "craft": "Savoir-faire",
-    "craftDesc": "Construit par quelqu'un qui l'utilise. Chaque fonctionnalité est testée en production avant sa sortie.",
+    "craftDesc": "Nous sommes les premiers utilisateurs. C'est pour la communauté que nous construisons.",
     "access": "Accès",
     "accessDesc": "Des outils pour tous. Les meilleurs outils ne devraient pas être réservés aux plus gros budgets."
   },

@@ -1,7 +1,7 @@
 {
   "metadata": {
     "title": "Sophia Foundry",
-    "description": "Uno studio di videogiochi che crea gli strumenti che avremmo voluto avere — e li condivide con tutti."
+    "description": "Uno studio di videogiochi che crea gli strumenti che avremmo voluto avere, e li condivide con tutti."
   },
   "nav": {
     "home": "Home",
@@ -12,7 +12,7 @@
   "hero": {
     "eyebrow": "Uno Studio di Videogiochi",
     "tagline": "Forgia l'impossibile",
-    "subline": "Uno studio di videogiochi che crea gli strumenti che avremmo voluto avere — e li condivide con tutti.",
+    "subline": "Uno studio di videogiochi che crea gli strumenti che avremmo voluto avere, e li condivide con tutti.",
     "cta": "Scopri Sophia Forge"
   },
   "mission": {
@@ -36,14 +36,8 @@
   "forgeHighlight": {
     "label": "Prodotto in Evidenza",
     "title": "Sophia Forge",
-    "pitch": "La workstation per lo sviluppo di videogiochi costruita per tutti, utenti di UE5 inclusi. I tuoi asset, i tuoi task, il tuo team — in un unico posto. Prima le persone. Poi l'IA.",
+    "pitch": "La workstation per lo sviluppo di videogiochi costruita per tutti, utenti di UE5 inclusi. I tuoi asset, i tuoi task, il tuo team, in un unico posto. Prima le persone. Poi l'IA.",
     "cta": "Scoprilo ora"
-  },
-  "founderNote": {
-    "title": "Una nota dalla fondatrice",
-    "text": "Credo che chiunque abbia una visione debba avere gli strumenti per realizzarla. Sophia Foundry esiste perché gli strumenti di cui avevo bisogno non esistevano — così li ho creati io. Ogni strumento che rilasciamo è qualcosa che uso ogni giorno. Questo è il nostro standard.",
-    "name": "Jessyka Gavião",
-    "role": "Fondatrice e Sviluppatrice"
   },
   "footer": {
     "tagline": "Forgia l'impossibile",
@@ -52,18 +46,14 @@
   },
   "about": {
     "studioTitle": "Lo Studio",
-    "studioText": "Sophia Foundry è uno studio di videogiochi — non un semplice fornitore di strumenti. I nostri strumenti nascono da reali esigenze produttive, testati sul campo nei nostri progetti prima di raggiungere qualsiasi altro team. Creiamo giochi e l'infrastruttura per realizzarli con la massima qualità.",
-    "founderTitle": "La Fondatrice",
-    "founderName": "Jessyka Alycia Bonfim Gavião",
-    "founderRole": "Fondatrice e Sviluppatrice",
-    "founderBio": "Sviluppatrice fullstack senior e analista di sistemi con oltre 10 anni di esperienza. Crea giochi e l'infrastruttura per realizzarli con la massima qualità. Sophia Foundry è attualmente uno studio di una sola persona. Non è un limite — è la prova di ciò che gli strumenti rendono possibile.",
+    "studioText": "Sophia Foundry è un piccolo studio di videogiochi. In solitaria per ora, in crescita presto. Facciamo giochi. Quando gli strumenti di cui abbiamo bisogno non esistono, li costruiamo.",
     "missionTitle": "Missione",
-    "missionText": "Crediamo che i migliori giochi nascano da team dotati degli strumenti giusti. La nostra missione è rendere ottimi strumenti di sviluppo accessibili a tutti — i workflow e l'infrastruttura di cui i team hanno bisogno per realizzare ciò che immaginano. I giochi che meritano di essere ricordati meritano strumenti che valgono la pena costruire.",
+    "missionText": "Siamo qui per creare giochi memorabili. Pubblichiamo gli strumenti che abbiamo costruito per realizzarli.",
     "valuesTitle": "Valori",
     "coherence": "Coerenza",
-    "coherenceDesc": "Tutto è connesso. I nostri strumenti, i nostri giochi, il nostro processo — costruiti come un unico sistema.",
+    "coherenceDesc": "I nostri strumenti vengono dai giochi che facciamo. I giochi plasmano gli strumenti, e gli strumenti plasmano i giochi.",
     "craft": "Artigianato",
-    "craftDesc": "Costruito da chi lo usa. Ogni funzionalità viene testata in produzione prima del rilascio.",
+    "craftDesc": "Siamo i primi utenti. Costruiamo per la community.",
     "access": "Accesso",
     "accessDesc": "Strumenti per tutti. I migliori strumenti non dovrebbero essere riservati ai budget più grandi."
   },

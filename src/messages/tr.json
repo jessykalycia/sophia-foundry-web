@@ -36,14 +36,8 @@
   "forgeHighlight": {
     "label": "Öne Çıkan Ürün",
     "title": "Sophia Forge",
-    "pitch": "UE5 kullanıcıları dahil herkes için tasarlanmış oyun geliştirme iş istasyonu. Varlıklarınız, görevleriniz, ekibiniz — tek bir yerde. Önce insanlar. Sonra yapay zekâ.",
+    "pitch": "UE5 kullanıcıları dahil herkes için tasarlanmış oyun geliştirme iş istasyonu. Varlıklarınız, görevleriniz, ekibiniz, tek bir yerde. Önce insanlar. Sonra yapay zekâ.",
     "cta": "Şimdi inceleyin"
-  },
-  "founderNote": {
-    "title": "Kurucudan Bir Not",
-    "text": "Vizyonu olan herkesin onu hayata geçirecek araçlara sahip olması gerektiğine inanıyorum. Sophia Foundry, ihtiyacım olan araçlar var olmadığı için doğdu — bu yüzden onları kendim inşa ettim. Yayınladığımız her araç, her gün kullandığım bir şeydir. Standartımız budur.",
-    "name": "Jessyka Gavião",
-    "role": "Kurucu ve Geliştirici"
   },
   "footer": {
     "tagline": "İmkânsızı dövün",
@@ -52,18 +46,14 @@
   },
   "about": {
     "studioTitle": "Stüdyo",
-    "studioText": "Sophia Foundry bir oyun stüdyosudur — sadece bir araç sağlayıcısı değil. Araçlarımız gerçek üretim ihtiyacından doğmaktadır; başka bir ekibe ulaşmadan önce kendi projelerimizde savaştan geçmiştir. Oyun yapıyoruz ve onları en yüksek kalitede yapmak için gereken altyapıyı oluşturuyoruz.",
-    "founderTitle": "Kurucu",
-    "founderName": "Jessyka Alycia Bonfim Gavião",
-    "founderRole": "Kurucu ve Geliştirici",
-    "founderBio": "10 yıldan fazla deneyime sahip kıdemli fullstack geliştirici ve sistem analisti. En yüksek kalitede oyunlar ve bunları yapmak için gereken altyapıyı inşa ediyor. Sophia Foundry şu anda tek kişilik bir stüdyodur. Bu bir kısıtlama değil — araçların neyi mümkün kıldığının kanıtıdır.",
+    "studioText": "Sophia Foundry küçük bir oyun stüdyosu. Şimdilik tek başına, yakında büyüyecek. Oyunlar yapıyoruz. İhtiyacımız olan araçlar olmadığında, biz inşa ederiz.",
     "missionTitle": "Misyon",
-    "missionText": "En iyi oyunların doğru araçlarla güçlenmiş ekiplerden geldiğine inanıyoruz. Misyonumuz, harika geliştirme araçlarını herkes için erişilebilir kılmak — ekiplerin hayal ettiklerini hayata geçirmek için ihtiyaç duyduğu iş akışlarını ve altyapıyı. Hatırlanmaya değer oyunlar, yapılmaya değer araçlar hak eder.",
+    "missionText": "Akılda kalıcı oyunlar yapmak için buradayız. Onları yapmak için inşa ettiğimiz araçları yayınlıyoruz.",
     "valuesTitle": "Değerler",
     "coherence": "Tutarlılık",
-    "coherenceDesc": "Her şey birbirine bağlıdır. Araçlarımız, oyunlarımız, sürecimiz — tek bir sistem olarak inşa edilmiştir.",
+    "coherenceDesc": "Araçlarımız, yaptığımız oyunlardan gelir. Oyunlar araçları şekillendirir, araçlar oyunları şekillendirir.",
     "craft": "Zanaat",
-    "craftDesc": "Kullanan kişi tarafından yapılmıştır. Her özellik yayınlanmadan önce üretimde test edilir.",
+    "craftDesc": "İlk kullanıcılar biziz. Topluluk için inşa ediyoruz.",
     "access": "Erişim",
     "accessDesc": "Herkes için araçlar. En iyi araçlar, en büyük bütçelerin arkasına kilitlenmemelidir."
   },

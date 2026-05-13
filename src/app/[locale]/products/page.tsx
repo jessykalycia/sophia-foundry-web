@@ -1,23 +1,24 @@
-import { useTranslations } from "next-intl";
-import { getTranslations, unstable_setRequestLocale } from "next-intl/server";
+import { getTranslations, setRequestLocale } from "next-intl/server";
 import { FadeIn, FadeInStagger, FadeInStaggerChild } from "@/components/motion";
 
 export async function generateMetadata({
-  params: { locale },
+  params,
 }: {
-  params: { locale: string };
+  params: Promise<{ locale: string }>;
 }) {
+  const { locale } = await params;
   const t = await getTranslations({ locale, namespace: "products" });
   return { title: t("title") };
 }
 
-export default function ProductsPage({
-  params: { locale },
+export default async function ProductsPage({
+  params,
 }: {
-  params: { locale: string };
+  params: Promise<{ locale: string }>;
 }) {
-  unstable_setRequestLocale(locale);
-  const t = useTranslations("products");
+  const { locale } = await params;
+  setRequestLocale(locale);
+  const t = await getTranslations({ locale, namespace: "products" });
 
   return (
     <div className="pt-32">

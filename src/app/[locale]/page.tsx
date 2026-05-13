@@ -1,15 +1,15 @@
-import { useTranslations } from "next-intl";
-import { unstable_setRequestLocale } from "next-intl/server";
+import { getTranslations, setRequestLocale } from "next-intl/server";
 import { FadeIn, FadeInStagger, FadeInStaggerChild } from "@/components/motion";
 import { HeroBackground } from "@/components/hero-background";
 
-export default function HomePage({
-  params: { locale },
+export default async function HomePage({
+  params,
 }: {
-  params: { locale: string };
+  params: Promise<{ locale: string }>;
 }) {
-  unstable_setRequestLocale(locale);
-  const t = useTranslations();
+  const { locale } = await params;
+  setRequestLocale(locale);
+  const t = await getTranslations({ locale });
 
   return (
     <>
@@ -142,27 +142,6 @@ export default function HomePage({
         </div>
       </section>
 
-      {/* Founder Note */}
-      <section className="py-[clamp(4rem,7vw,6rem)]">
-        <div className="container text-center">
-          <FadeIn>
-            <span className="font-space-mono text-xs uppercase tracking-[0.15em] text-purple-primary">
-              {t("founderNote.title")}
-            </span>
-            <blockquote className="mt-6 font-figtree text-xl italic leading-relaxed text-text-secondary sm:text-2xl">
-              &ldquo;{t("founderNote.text")}&rdquo;
-            </blockquote>
-            <div className="mt-8">
-              <p className="font-raleway font-semibold text-text-primary">
-                {t("founderNote.name")}
-              </p>
-              <p className="mt-1 font-space-mono text-xs uppercase tracking-[0.15em] text-text-muted">
-                {t("founderNote.role")}
-              </p>
-            </div>
-          </FadeIn>
-        </div>
-      </section>
     </>
   );
 }

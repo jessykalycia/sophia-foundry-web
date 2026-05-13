@@ -1,7 +1,7 @@
 {
   "metadata": {
     "title": "Sophia Foundry",
-    "description": "Un estudio de videojuegos que crea las herramientas que nos hubiera gustado tener — y las comparte con todos."
+    "description": "Un estudio de videojuegos que crea las herramientas que nos hubiera gustado tener, y las comparte con todos."
   },
   "nav": {
     "home": "Inicio",
@@ -12,7 +12,7 @@
   "hero": {
     "eyebrow": "Un Estudio de Videojuegos",
     "tagline": "Forja lo imposible",
-    "subline": "Un estudio de videojuegos que crea las herramientas que nos hubiera gustado tener — y las comparte con todos.",
+    "subline": "Un estudio de videojuegos que crea las herramientas que nos hubiera gustado tener, y las comparte con todos.",
     "cta": "Explorar Sophia Forge"
   },
   "mission": {
@@ -36,14 +36,8 @@
   "forgeHighlight": {
     "label": "Producto Destacado",
     "title": "Sophia Forge",
-    "pitch": "La estación de desarrollo de videojuegos creada para todos, incluidos los usuarios de UE5. Tus assets, tus tareas, tu equipo — en un solo lugar. Las personas primero. La IA después.",
+    "pitch": "La estación de desarrollo de videojuegos creada para todos, incluidos los usuarios de UE5. Tus assets, tus tareas, tu equipo, en un solo lugar. Las personas primero. La IA después.",
     "cta": "Descúbrelo ahora"
-  },
-  "founderNote": {
-    "title": "Nota de la Fundadora",
-    "text": "Creo que cualquier persona con visión debería tener las herramientas para hacerla realidad. Sophia Foundry existe porque las herramientas que necesitaba no existían — así que las construí yo misma. Cada herramienta que lanzamos es algo que uso cada día. Ese es el estándar.",
-    "name": "Jessyka Gavião",
-    "role": "Fundadora y Desarrolladora"
   },
   "footer": {
     "tagline": "Forja lo imposible",
@@ -52,18 +46,14 @@
   },
   "about": {
     "studioTitle": "El Estudio",
-    "studioText": "Sophia Foundry es un estudio de videojuegos — no solo un proveedor de herramientas. Nuestras herramientas nacen de necesidades reales de producción, probadas en combate en nuestros propios proyectos antes de llegar a cualquier otro equipo. Creamos juegos y la infraestructura para hacerlos con la más alta calidad.",
-    "founderTitle": "La Fundadora",
-    "founderName": "Jessyka Alycia Bonfim Gavião",
-    "founderRole": "Fundadora y Desarrolladora",
-    "founderBio": "Desarrolladora fullstack senior y analista de sistemas con más de 10 años de experiencia. Crea juegos y la infraestructura para hacerlos con la más alta calidad. Sophia Foundry es actualmente un estudio de una sola persona. Eso no es una limitación — es la prueba de lo que las herramientas hacen posible.",
+    "studioText": "Sophia Foundry es un pequeño estudio de videojuegos. En solitario por ahora, creciendo pronto. Hacemos juegos. Cuando las herramientas que necesitamos no existen, las construimos.",
     "missionTitle": "Misión",
-    "missionText": "Creemos que los mejores juegos provienen de equipos empoderados con las herramientas adecuadas. Nuestra misión es hacer que grandes herramientas de desarrollo sean accesibles para todos — los flujos de trabajo y la infraestructura que los equipos necesitan para crear lo que imaginan. Los juegos que merecen ser recordados merecen herramientas que valgan la pena construir.",
+    "missionText": "Estamos aquí para hacer juegos memorables. Lanzamos las herramientas que construimos para hacerlos.",
     "valuesTitle": "Valores",
     "coherence": "Coherencia",
-    "coherenceDesc": "Todo está conectado. Nuestras herramientas, nuestros juegos, nuestro proceso — construidos como un solo sistema.",
+    "coherenceDesc": "Nuestras herramientas vienen de los juegos que hacemos. Los juegos dan forma a las herramientas, y las herramientas dan forma a los juegos.",
     "craft": "Maestría",
-    "craftDesc": "Construido por quien lo usa. Cada funcionalidad se prueba en producción antes de su lanzamiento.",
+    "craftDesc": "Somos los primeros usuarios. La comunidad es para quien construimos.",
     "access": "Acceso",
     "accessDesc": "Herramientas para todos. Las mejores herramientas no deberían estar bloqueadas tras los mayores presupuestos."
   },

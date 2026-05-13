@@ -1,7 +1,7 @@
 {
   "metadata": {
     "title": "Sophia Foundry",
-    "description": "A game studio building the tools we wished existed — and sharing them with everyone."
+    "description": "A game studio building the tools we wished existed, and sharing them with everyone."
   },
   "nav": {
     "home": "Home",
@@ -12,7 +12,7 @@
   "hero": {
     "eyebrow": "A Game Studio",
     "tagline": "Forge the impossible",
-    "subline": "A game studio building the tools we wished existed — and sharing them with everyone.",
+    "subline": "A game studio building the tools we wished existed, and sharing them with everyone.",
     "cta": "Explore Sophia Forge"
   },
   "mission": {
@@ -36,14 +36,8 @@
   "forgeHighlight": {
     "label": "Featured Product",
     "title": "Sophia Forge",
-    "pitch": "The Game development workstation built for everyone, including UE5 users. Your assets, your tasks, your team — in one place. People first. AI second.",
+    "pitch": "The Game development workstation built for everyone, including UE5 users. Your assets, your tasks, your team, in one place. People first. AI second.",
     "cta": "Check out now"
-  },
-  "founderNote": {
-    "title": "A Note from the Founder",
-    "text": "I believe anyone with vision should have the tools to build it. Sophia Foundry exists because the tools I needed didn't exist — so I built them. Every tool we release is something I use every day. That's the standard.",
-    "name": "Jessyka Gavião",
-    "role": "Founder & Developer"
   },
   "footer": {
     "tagline": "Forge the impossible",
@@ -52,18 +46,14 @@
   },
   "about": {
     "studioTitle": "The Studio",
-    "studioText": "Sophia Foundry is a game studio — not just a tool vendor. Our tools are born from real production need, battle-tested in our own projects before they ever reach another team. We build games and the infrastructure to make them at the highest quality.",
-    "founderTitle": "The Founder",
-    "founderName": "Jessyka Alycia Bonfim Gavião",
-    "founderRole": "Founder & Developer",
-    "founderBio": "Senior fullstack developer and systems analyst with over 10 years of experience. Building games and the infrastructure to make them at the highest quality. Sophia Foundry is currently a one-person studio. That's not a limitation — it's proof of what the tools make possible.",
+    "studioText": "Sophia Foundry is a small game studio. Solo for now, growing soon. We make games. When the tools we need don't exist, we build them.",
     "missionTitle": "Mission",
-    "missionText": "We believe the best games come from teams empowered with the right tools. Our mission is to make great development tools accessible to everyone — the workflows and infrastructure teams need to ship what they imagine. Games worth remembering deserve tools worth building.",
+    "missionText": "We're here to make memorable games. We release the tools we built to make them.",
     "valuesTitle": "Values",
     "coherence": "Coherence",
-    "coherenceDesc": "Everything connects. Our tools, our games, our process — built as one system.",
+    "coherenceDesc": "Our tools come from the games we make. The games shape the tools, and the tools shape the games.",
     "craft": "Craft",
-    "craftDesc": "Built by someone who uses it. Every feature is tested in production before it ships.",
+    "craftDesc": "We're the first users. The community is who we build for.",
     "access": "Access",
     "accessDesc": "Tools for everyone. The best tools should not be locked behind the biggest budgets."
   },

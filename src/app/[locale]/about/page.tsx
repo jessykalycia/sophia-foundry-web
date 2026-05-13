@@ -1,23 +1,24 @@
-import { useTranslations } from "next-intl";
-import { getTranslations, unstable_setRequestLocale } from "next-intl/server";
+import { getTranslations, setRequestLocale } from "next-intl/server";
 import { FadeIn, FadeInStagger, FadeInStaggerChild } from "@/components/motion";
 
 export async function generateMetadata({
-  params: { locale },
+  params,
 }: {
-  params: { locale: string };
+  params: Promise<{ locale: string }>;
 }) {
+  const { locale } = await params;
   const t = await getTranslations({ locale, namespace: "about" });
   return { title: t("studioTitle") };
 }
 
-export default function AboutPage({
-  params: { locale },
+export default async function AboutPage({
+  params,
 }: {
-  params: { locale: string };
+  params: Promise<{ locale: string }>;
 }) {
-  unstable_setRequestLocale(locale);
-  const t = useTranslations("about");
+  const { locale } = await params;
+  setRequestLocale(locale);
+  const t = await getTranslations({ locale, namespace: "about" });
 
   return (
     <div className="pt-32">
@@ -31,28 +32,6 @@ export default function AboutPage({
               </h1>
               <p className="mt-8 font-figtree text-[1.0625rem] leading-[1.75] text-text-secondary">
                 {t("studioText")}
-              </p>
-            </div>
-          </FadeIn>
-        </div>
-      </section>
-
-      {/* Founder */}
-      <section className="pt-[clamp(1rem,2vw,1.5rem)] pb-6">
-        <div className="container">
-          <FadeIn>
-            <div className="max-w-[780px]">
-              <span className="font-space-mono text-xs uppercase tracking-[0.15em] text-purple-primary">
-                {t("founderTitle")}
-              </span>
-              <h2 className="mt-4 font-raleway text-2xl font-bold text-text-primary">
-                {t("founderName")}
-              </h2>
-              <p className="mt-1 font-space-mono text-sm text-text-muted">
-                {t("founderRole")}
-              </p>
-              <p className="mt-6 font-figtree text-[1.0625rem] leading-[1.75] text-text-secondary">
-                {t("founderBio")}
               </p>
             </div>
           </FadeIn>

@@ -1,8 +1,6 @@
 import { NextResponse } from "next/server";
 import { Resend } from "resend";
 
-const resend = new Resend(process.env.RESEND_API_KEY);
-
 function sanitize(str: string) {
   return str
     .replace(/&/g, "&amp;")
@@ -26,6 +24,7 @@ export async function POST(request: Request) {
     const safeEmail = sanitize(email);
     const safeMessage = sanitize(message).replace(/\n/g, "<br>");
 
+    const resend = new Resend(process.env.RESEND_API_KEY);
     await resend.emails.send({
       from: "Sophia Foundry <noreply@sophiafoundry.com>",
       to: "jessyka@sophiafoundry.com",

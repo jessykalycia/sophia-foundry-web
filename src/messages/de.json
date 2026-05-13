@@ -1,7 +1,7 @@
 {
   "metadata": {
     "title": "Sophia Foundry",
-    "description": "Ein Spielestudio, das die Werkzeuge baut, die wir uns gewünscht hätten — und sie mit allen teilt."
+    "description": "Ein Spielestudio, das die Werkzeuge baut, die wir uns gewünscht hätten, und sie mit allen teilt."
   },
   "nav": {
     "home": "Startseite",
@@ -12,7 +12,7 @@
   "hero": {
     "eyebrow": "Ein Spielestudio",
     "tagline": "Schmiede das Unmögliche",
-    "subline": "Ein Spielestudio, das die Werkzeuge baut, die wir uns gewünscht hätten — und sie mit allen teilt.",
+    "subline": "Ein Spielestudio, das die Werkzeuge baut, die wir uns gewünscht hätten, und sie mit allen teilt.",
     "cta": "Sophia Forge entdecken"
   },
   "mission": {
@@ -30,20 +30,14 @@
     "tools": {
       "label": "Werkzeuge",
       "title": "Werkzeuge",
-      "forgeDescription": "Workstation für Spieleentwicklung für alle — auch für UE5-Nutzer. Vollständige Kohärenz, Echtzeit-Zusammenarbeit, Menschen zuerst, KI danach."
+      "forgeDescription": "Workstation für Spieleentwicklung für alle, auch für UE5-Nutzer. Vollständige Kohärenz, Echtzeit-Zusammenarbeit, Menschen zuerst, KI danach."
     }
   },
   "forgeHighlight": {
     "label": "Hervorgehobenes Produkt",
     "title": "Sophia Forge",
-    "pitch": "Die Workstation für Spieleentwicklung, gebaut für alle — auch für UE5-Nutzer. Deine Assets, deine Aufgaben, dein Team — an einem Ort. Menschen zuerst. KI danach.",
+    "pitch": "Die Workstation für Spieleentwicklung, gebaut für alle, auch für UE5-Nutzer. Deine Assets, deine Aufgaben, dein Team, an einem Ort. Menschen zuerst. KI danach.",
     "cta": "Jetzt ansehen"
-  },
-  "founderNote": {
-    "title": "Ein Wort der Gründerin",
-    "text": "Ich glaube, dass jeder mit einer Vision die Werkzeuge haben sollte, um sie zu verwirklichen. Sophia Foundry existiert, weil die Werkzeuge, die ich brauchte, nicht existierten — also habe ich sie selbst gebaut. Jedes Werkzeug, das wir veröffentlichen, nutze ich täglich. Das ist unser Standard.",
-    "name": "Jessyka Gavião",
-    "role": "Gründerin & Entwicklerin"
   },
   "footer": {
     "tagline": "Schmiede das Unmögliche",
@@ -52,18 +46,14 @@
   },
   "about": {
     "studioTitle": "Das Studio",
-    "studioText": "Sophia Foundry ist ein Spielestudio — nicht nur ein Werkzeuganbieter. Unsere Werkzeuge entstehen aus echtem Produktionsbedarf und werden in unseren eigenen Projekten praxiserprobt, bevor sie ein anderes Team erreichen. Wir entwickeln Spiele und die Infrastruktur, um sie in höchster Qualität zu erschaffen.",
-    "founderTitle": "Die Gründerin",
-    "founderName": "Jessyka Alycia Bonfim Gavião",
-    "founderRole": "Gründerin & Entwicklerin",
-    "founderBio": "Senior-Fullstack-Entwicklerin und Systemanalystin mit über 10 Jahren Erfahrung. Sie entwickelt Spiele und die Infrastruktur, um sie in höchster Qualität zu erschaffen. Sophia Foundry ist derzeit ein Ein-Personen-Studio. Das ist keine Einschränkung — es ist der Beweis für das, was die Werkzeuge möglich machen.",
+    "studioText": "Sophia Foundry ist ein kleines Spielestudio. Vorerst allein, bald wachsend. Wir machen Spiele. Wenn die Werkzeuge, die wir brauchen, nicht existieren, bauen wir sie.",
     "missionTitle": "Mission",
-    "missionText": "Wir glauben, dass die besten Spiele von Teams kommen, die mit den richtigen Werkzeugen ausgestattet sind. Unsere Mission ist es, großartige Entwicklungswerkzeuge für alle zugänglich zu machen — die Workflows und die Infrastruktur, die Teams brauchen, um ihre Ideen zu verwirklichen. Spiele, die es wert sind, erinnert zu werden, verdienen Werkzeuge, die es wert sind, gebaut zu werden.",
+    "missionText": "Wir sind da, um unvergessliche Spiele zu machen. Wir veröffentlichen die Werkzeuge, die wir dafür gebaut haben.",
     "valuesTitle": "Werte",
     "coherence": "Kohärenz",
-    "coherenceDesc": "Alles ist verbunden. Unsere Werkzeuge, unsere Spiele, unser Prozess — als ein System gebaut.",
+    "coherenceDesc": "Unsere Werkzeuge kommen aus den Spielen, die wir machen. Die Spiele prägen die Werkzeuge, und die Werkzeuge prägen die Spiele.",
     "craft": "Handwerk",
-    "craftDesc": "Gebaut von jemandem, der es selbst nutzt. Jede Funktion wird in der Produktion getestet, bevor sie veröffentlicht wird.",
+    "craftDesc": "Wir sind die ersten Nutzer. Gebaut wird für die Community.",
     "access": "Zugang",
     "accessDesc": "Werkzeuge für alle. Die besten Werkzeuge sollten nicht hinter den größten Budgets verschlossen sein."
   },
@@ -71,7 +61,7 @@
     "title": "Produkte",
     "header": "Wir bauen die Werkzeuge, die wir uns gewünscht hätten.",
     "forgeTitle": "Sophia Forge",
-    "forgeDesc": "Workstation für Spieleentwicklung für alle — auch für UE5-Nutzer. Vollständige Kohärenz, Echtzeit-Zusammenarbeit, Menschen zuerst, KI danach.",
+    "forgeDesc": "Workstation für Spieleentwicklung für alle, auch für UE5-Nutzer. Vollständige Kohärenz, Echtzeit-Zusammenarbeit, Menschen zuerst, KI danach.",
     "forgeLink": "Sophia Forge besuchen",
     "comingTitle": "Mehr kommt bald",
     "comingDesc": "Wir bauen weiter. Bleibt dran.",
