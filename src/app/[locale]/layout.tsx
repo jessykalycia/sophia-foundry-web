@@ -3,6 +3,7 @@ import { NextIntlClientProvider } from "next-intl";
 import { getMessages, getTranslations, setRequestLocale } from "next-intl/server";
 import { notFound } from "next/navigation";
 import { Raleway, Figtree, Space_Mono } from "next/font/google";
+import { Analytics } from "@vercel/analytics/next";
 import { locales } from "@/i18n/config";
 import { Navbar } from "@/components/navbar";
 import { Footer } from "@/components/footer";
@@ -83,6 +84,7 @@ export default async function LocaleLayout({
           <main className="min-h-screen">{children}</main>
           <Footer />
         </NextIntlClientProvider>
+        <Analytics />
       </body>
     </html>
   );
